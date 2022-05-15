@@ -21,4 +21,11 @@ Pues bueno a mi me toco investigar mas de Backend con  contenedores Docker y BD,
 ![Captura de Pantalla 2022-05-14 a la(s) 21 50 44](https://user-images.githubusercontent.com/99458354/168456091-df3508d8-b623-4471-a80e-e28d8d3a4a8a.png)
 
 
-¿Para que nos sirve crear contenedores & Bases de Datos relacionales & no relacionales?. Practicamente , podemos crear cualquier tipo de Aplicación que se conecte de manera Local y/o en la nube , de una manera rapida y aquí podremos consultar la información requerida del proyecto "HackTheOcean" .. "Cuidando los animales en peligro de extinsión".
+¿Para que nos sirve crear contenedores & Bases de Datos relacionales & no relacionales?. Practicamente , ![Captura de Pantalla 2022-05-15 a la(s) 10 07 21](https://user-images.githubusercontent.com/99458354/168480911-0b1c610e-da3d-4dd4-98ba-5c8c9c93a99b.png)
+podemos crear cualquier tipo de Aplicación que se conecte de manera Local y/o en la nube , de una manera ra![Captura de Pantalla 2022-05-15 a la(s) 10 06 31](https://user-images.githubusercontent.com/99458354/168480922-253b2838-d92b-46a4-a94b-1085526a1cb7.png)![Captura de Pantalla 2022-05-15 a la(s) 10 05 54](https://user-images.githubusercontent.com/99458354/168480928-e878e896-2940-4c30-8e61-690cf51a640a.png)
+![Captura de Pantalla 2022-05-15 a la(s) 9 59 39](https://user-images.githubusercontent.com/99458354/168480942-c8f83ed4-4935-4ff3-b815-1f638fee367e.png)
+
+pida y aquí podremos consultar la información requerida del proyecto "HackTheOcean" .. "Cuidando los animales en peligro de extinsión".
+
+
+![Captura de Pantalla 2022-05-15 a la(s) 10 22 45](https://user-images.githubusercontent.com/99458354/168480912-150b4ad9-ee64-4ff4-a915-6da4276a1006.png)
