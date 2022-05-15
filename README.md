@@ -10,8 +10,11 @@ Nuestro proyecto es sobre los animales marinos en peligro de extinción.
 ## Tecnologias utilizadas:
 
 - Mysql
-- Node JS
-- Javascrip
+- Node JS con Javascrip
+- Html
+- css
 
-(Imagen de muestra de la tabla utilizada para la informacion de los animales en la base de datos)
+
+
+![Image text](https://github.com/PameFSL/HackTheOcean-LanchX/tree/main/Imagen_base_de_datos)
 
