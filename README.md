@@ -16,5 +16,5 @@ Nuestro proyecto es sobre los animales marinos en peligro de extinción.
 
 
 
-![Image text](https://github.com/PameFSL/HackTheOcean-LanchX/tree/main/Imagen_base_de_datos)
+![Image text](https://github.com/PameFSL/HackTheOcean-LanchX/blob/main/Imagen_base_de_datos/Base%20de%20Datos%20animalesDB.jpg)
 
