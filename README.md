@@ -3,6 +3,8 @@
 Nuestro proyecto es sobre los animales marinos en peligro de extinción.
 
 (Descripción de proyecto)
+La creación de una aplicacion que permita a las personas
+
 
 (Breve explicacion del proyecto)
 
