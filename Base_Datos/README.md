@@ -25,3 +25,14 @@ Es importante mencionar que para utilizar el servicio se debe configurar el fire
 Una vez realizadas las configuraciones necesarias, se procedió a crear la base de datos para poder crear las intancias necesarias y guardar la información correspondiente. 
 
 [Click here to see Script](https://github.com/PameFSL/HackTheOcean-LanchX/blob/main/Base_Datos/script_para_base_de_datos.sql)
+
+
+
+
+## Consumo desde API
+Para poder establecer la conexión con el servidor desde nodeJS se siguieron los pasos de este tutorial: 
+[Click to see](https://docs.microsoft.com/en-us/azure/azure-sql/database/connect-query-nodejs?view=azuresql&tabs=windows). 
+
+Obteniendo como resultado una conexion exitosa y visualización correcta de la base :D
+
+![Image text](https://github.com/PameFSL/HackTheOcean-LanchX/blob/main/Base_Datos/ConexionNodeJS.png)
