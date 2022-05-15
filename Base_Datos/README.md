@@ -24,4 +24,4 @@ Es importante mencionar que para utilizar el servicio se debe configurar el fire
 ## Administración de base de datos
 Una vez realizadas las configuraciones necesarias, se procedió a crear la base de datos para poder crear las intancias necesarias y guardar la información correspondiente. 
 
-[Contribution guidelines for this project](https://github.com/PameFSL/HackTheOcean-LanchX/blob/main/Base_Datos/script_para_base_de_datos.sql)
+[Click here to see Script](https://github.com/PameFSL/HackTheOcean-LanchX/blob/main/Base_Datos/script_para_base_de_datos.sql)
