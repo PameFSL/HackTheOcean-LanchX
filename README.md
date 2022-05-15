@@ -10,7 +10,7 @@ Por este motivo es que hemos desarrollado una aplicación que permitirá a las p
 ![Image text](https://media.istockphoto.com/vectors/sad-turtle-vector-id1168586385?k=20&m=1168586385&s=612x612&w=0&h=3B6D_zcOR9tm2EKdxpk6SdtqtARyf5D9UmCzAnAnylc=)
 
 
-A través de nuestra aplicación el usuario podrá información de valor de los animales marinos que están en peligro de extinción, para conocer su hábitat, características, etc. Así como información importante de las organizaciones encargadas de proteger a estas especies.  
+A través de nuestra aplicación el usuario obtendrá información de valor acerca de los animales marinos que están en peligro de extinción, para conocer su hábitat, características, etc. Así como información importante de las organizaciones encargadas de proteger a estas especies.  
 
 ![Image text](https://user-images.githubusercontent.com/47186624/168493571-d74dc6ac-921b-49fa-bd3e-7b9c566c8634.png) ![Image text](https://bluefront.org/wp-content/uploads/2016/06/oceana-logo-e1485969198165.jpg)
 
