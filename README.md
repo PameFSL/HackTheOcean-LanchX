@@ -7,7 +7,7 @@ Actualmente estamos enfrentando un enorme problema que conlleva unas terribles c
 
 Por este motivo es que hemos desarrollado una aplicación que permitirá a las personas ser más consientes de todas aquellas criaturas que están a punto de desaparecer y que necesitan de nuestra ayuda para prevalecer en el sistema ya que cada animal tiene una función en los ecosistemas y es insustituible. Si se produce la pérdida de una especie del planeta, podría provocar graves consecuencias para nuestro ecosistema.
 
-![Image text](https://thumbs.dreamstime.com/b/turtle-swimming-polluted-ocean-vector-illustration-sea-living-underwater-surrounded-garbage-186004662.jpg)
+![Image text](https://media.istockphoto.com/vectors/sad-turtle-vector-id1168586385?k=20&m=1168586385&s=612x612&w=0&h=3B6D_zcOR9tm2EKdxpk6SdtqtARyf5D9UmCzAnAnylc=)
 
 
 (Breve explicacion del proyecto)
