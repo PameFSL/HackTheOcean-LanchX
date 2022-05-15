@@ -1,6 +1,23 @@
 const mysql = require('mysql');
 const fs = require('fs');
 
+const express= require('express');
+const app = express()
+const port = 3000;
+const path = require('path')
+
+
+
+app.listen(port ,()=>{
+    console.log('corriendo servidor')
+})
+app.get('/home', (req,res)=>{
+    res.sendFile(path.resolve(__dirname, './views/index.html'))
+})
+
+
+
+
 var config =
 {
     host: 'serverlaunchx.mysql.database.azure.com',
