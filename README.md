@@ -24,7 +24,7 @@ A través de nuestra aplicación el usuario obtendrá información de valor acer
 
 ## Tecnologias utilizadas:
 
-- Mysql
+- Azure Database for MySQL
 - Node JS con Javascrip
 - Html
 - css
