@@ -12,7 +12,7 @@ Por este motivo es que hemos desarrollado una aplicación que permitirá a las p
 
 A través de nuestra aplicación el usuario podrá información de valor de los animales marinos que están en peligro de extinción, para conocer su hábitat, características, etc. Así como información importante de las organizaciones encargadas de proteger a estas especies.  
 
-![Image text](https://user-images.githubusercontent.com/47186624/168493571-d74dc6ac-921b-49fa-bd3e-7b9c566c8634.png)
+![Image text](https://user-images.githubusercontent.com/47186624/168493571-d74dc6ac-921b-49fa-bd3e-7b9c566c8634.png) ![Image text]( https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Oceana_logo.jpg/800px-Oceana_logo.jpg)
 
 
 
