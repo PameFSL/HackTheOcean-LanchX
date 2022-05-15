@@ -35,9 +35,14 @@ function readData(){
             if (err) throw err;
             else console.log('Selected ' + results.length + ' row(s).');
             for (i = 0; i < results.length; i++) {
-                console.log('Row: ' + JSON.stringify(results[i]));
+                console.log('\nRow: ' + JSON.stringify(results[i]));
+                
+                const fila = JSON.stringify(results[i].nameAnimal);
+                console.log('\n Animal: ', fila);
+
+
             }
-            console.log('Done.');
+            console.log('Done. ');
         })
     conn.end(
         function (err) { 
