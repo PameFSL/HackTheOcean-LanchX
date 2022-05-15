@@ -2,6 +2,7 @@
 
 Nuestro proyecto es sobre los animales marinos en peligro de extinción.
 
+
 ## Objetivo del proyecto
 Actualmente estamos enfrentando un enorme problema que conlleva unas terribles consecuencias: “La extinción de especies”. La cual se está produciendo de manera alarmante y muy acelerada y desafortunadamente los responsables directos de este desastre natural somos los seres humanos. ☹
 
@@ -17,6 +18,8 @@ A través de nuestra aplicación el usuario obtendrá información de valor acer
 
 
 (Breve explicacion del proyecto)
+
+
 
 
 ## Tecnologias utilizadas:
