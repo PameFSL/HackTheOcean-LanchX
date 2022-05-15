@@ -20,7 +20,9 @@ A través de nuestra aplicación el usuario obtendrá información de valor acer
 ## Descripción del proyecto
 
 Los oceános producen al menos, el 50% del oxígeno del planeta, albergan la mayor parte de la biodiversidad de la Tierra y son la principal fuente de proteínas para más de mil millones de personas en el mundo.
+
 El Día Mundial de los Océanos, que se conmemora este 8 de junio, recuerda el importante papel de estos en la vida cotidiana. Constituyen los pulmones de nuestro planeta, una fuente importante de alimentos y medicinas y una parte fundamental de la biosfera.
+
 Desarrollamos está aplicación con el fin de informar las personas sobre la importancia de los mares y océanos, ya que son parte importante del planeta que habitamos, en ellos encontramos más de 250 mil especies conocida, regulan el clima, produce el 70% del oxígeno que respiramos, absolrbe casi un 30% de las emisiones de dióxido de carbono que producimos.
 
 
