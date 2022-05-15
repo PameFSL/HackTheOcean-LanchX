@@ -28,7 +28,7 @@ Desarrollamos está aplicación con el fin de informar las personas sobre la imp
 
 ## Tecnologias utilizadas:
 
-- Azure Database for MySQL
+- [Azure Database for MySQL](https://github.com/PameFSL/HackTheOcean-LanchX/blob/main/Base_Datos/README.md). 
 - Node JS con Javascrip
 - Html
 - CSS
