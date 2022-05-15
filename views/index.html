@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+    <title>Home</title>
+    <link rel="stylesheet" href="/Public/css/home.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+</head>
+
+
+<body class=".d-flex">
+  <header>
+    <nav class="navbar navbar-expand-lg bg-dark">
+      <div class="container">
+          <a class="navbar-brand text-uppercase text-light font-wwigth-bold" href="#">Ocean</a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            
+            <span class="navbar-toggler-icon hamburgesa"><ion-icon name="menu-outline"></ion-icon></span>
+          </button>
+      
+          <div class="collapse navbar-collapse" id="navbarSupportedContent">
+              <ul class="navbar-nav ml-auto">
+                  <li class="nav-item">
+                      <a class="nav-link text-uppercase text-light" href="#">Home</a>
+                  </li>
+                  <li class="nav-item ml-5">
+                      <a class="nav-link text-uppercase text-light" href="#">About</a>
+                  </li>
+                  <li class="nav-item ml-5">
+                      <a class="nav-link text-uppercase text-light" href="#">Contacts</a>
+                  </li>
+                  <li class="nav-item ml-5">
+                      <a class="nav-link text-uppercase text-light" href="#">Organization</a>
+                  </li>
+              </ul>
+          </div>
+      </div>    
+    </nav>
+  </header>
+  <section>
+    <div id="carouselExampleIndicators" class="carousel slide carrusel" data-ride="carousel">
+        <ol class="carousel-indicators">
+          <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+          <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+        </ol>
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <img class="d-block w-100 imagen" src="/Public/img/minecraft.jpg" alt="First slide">
+          </div>
+          <div class="carousel-item">
+            <img class="d-block w-100 imagen" src="/Public/img/minecraft.jpg" alt="Second slide">
+          </div>
+          <div class="carousel-item">
+            <img class="d-block w-100 imagen" src="/Public/img/minecraft.jpg" alt="Third slide">
+          </div>
+        </div>
+        <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="sr-only">Next</span>
+        </a>
+      </div>
+  </section>
+      <main>
+        <section>
+            <div class="text-center">
+                <h2>About us</h2>
+                <p class="text-justify mx-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero harum accusamus porro, nostrum, sint, ipsum distinctio quidem nam dolorem laboriosam maiores blanditiis. Repudiandae veniam explicabo quod similique ad ea. Fugit.</p>
+            </div>
+        </section>
+        <section>
+          <nav class="navbar navbar-dark">
+            <form class="form-inline mx-auto">
+                <input class="form-control mr-sm-2" type="search" placeholder="Buscar especie" id="txtFish" aria-label="Search">
+                <button class="btn btn btn-dark my-2 my-sm-0 btnBuscarPokemon" id="btnSerch" type="submit">Search</button>
+            </form>
+        </nav>
+        <div class="w-50 text-justify mx-auto my-5">      
+          <div class="card mb-3">
+            <img class="card-img-top" src="..." alt="Card image cap">
+            <div class="card-body">
+              <h5 class="card-title">Card title</h5>
+              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+            </div>
+          </div>
+        </div>  
+        </section>
+        
+        <section class="d-flex justify-content-center flex-column mx-5 text-light" style="background-color:#343A40; border-radius: .5rem;">
+          <h2 class="text-center">contact us</h2>
+          <form class="mx-5">
+            <div class="form-group">
+              <label for="exampleFormControlInput1">Email address</label>
+              <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+            </div>
+            <div class="form-group">
+              <label for="exampleFormControlTextarea1">comments</label>
+              <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+            </div>
+          </form>
+          <div class="d-flex justify-content-center" ><button type="button" class="btn btn-primary">send</button></div>
+          
+        </section>
+
+      </main>
+
+    
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+</body>
+<script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+<script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+<footer><script src="./findFish.js"></script></footer>
+</html>
